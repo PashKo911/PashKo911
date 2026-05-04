@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Pavlo Kovalenko  
+Full-Stack Developer — Vue.js / Node.js  
 
-<!--
-**PashKo911/PashKo911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building scalable web applications with focus on UX, performance, and maintainable architecture.  
 
-Here are some ideas to get you started:
+⚙️ Tech  
+Vue • JavaScript • Node.js • Express • MongoDB • REST API  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Core  
+• SPA architecture & development  
+• Backend APIs & authentication  
+• Third-party integrations (payments, OAuth, Telegram)  
+• Performance & optimization  
