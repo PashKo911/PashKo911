@@ -1,19 +1,22 @@
-# 👋 Pavlo Kovalenko  
-### Full-Stack Developer — Vue.js / Node.js  
+# 👋 Pavlo Kovalenko
 
-Building scalable web applications with focus on **UX**, **performance**, and **maintainable architecture**.  
+### Full-Stack Developer — Vue.js / Nuxt / Node.js
 
----
-
-## ⚙️ Tech Stack  
-**Vue • JavaScript • Node.js • Express • MongoDB • REST API**
+Building scalable SPA and full-stack web applications with a primary focus on frontend development, user experience, performance, and clean architecture.
 
 ---
 
-## 🚀 Core Expertise  
-- SPA architecture & development  
-- Backend APIs & authentication  
-- Third-party integrations *(payments, OAuth, Telegram)*  
-- Performance optimization  
+## ⚙️ Tech Stack
+
+**Vue.js • Nuxt • JavaScript • TypeScript • Node.js • Express.js • MongoDB • REST API**
+
+---
+
+## 🚀 Core Expertise
+
+- SPA & full-stack application development
+- REST API design & backend development
+- Authentication & third-party integrations (OAuth, payments, Telegram)
+- Performance optimization & reusable UI architecture
 
 ---
